@@ -3,9 +3,9 @@ Hi there! I'm Rifna, a passionate Web Developer and Data Analytics enthusiast wh
 ## 🛠️ Tech Stack
 ### 🔹 Programming & Core Concepts
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactJS-4479A1?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=w3c&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/ReactJS-4479A1?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
