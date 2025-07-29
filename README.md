@@ -1,5 +1,5 @@
 # 🚀 Welcome to My GitHub Profile!
-Hi there! I'm Rifna, a passionate Web Developer and Data Analytics enthusiast who enjoys building clean, functional web experiences and turning complex data into powerful insights.
+Hi there! I'm Rifna, a passionate FrontEnd Developer and Data Analytics enthusiast who enjoys building clean, functional web experiences and turning complex data into powerful insights.
 
 ## 🛠️ Tech Stack
 ### 🔹 Programming & Core Concepts
